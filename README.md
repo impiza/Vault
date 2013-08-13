@@ -28,4 +28,4 @@ when you click it to open it will ask your password type your password with in 5
 
 this is just a small trick to fool your friends ....
 
-always hide your folder "Finder" path bar ! :D 
+always hide your folder "Finder" path bar screen shot here >>> http://cl.ly/image/0W0q1s1t0l0k ! :D 
