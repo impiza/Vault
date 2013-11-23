@@ -29,7 +29,8 @@ if you want a specific file path then replace this line from default script ! ( 
 
 *NOTE
 =====
-here " Machintosh HD "may vary depend on your hdd name 
+here ( Machintosh HD/ " )may vary depend on your hdd name &
+in between ( / " ) you always remember to give a space as it is our folder name 
 
 
 Step Four
