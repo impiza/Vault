@@ -5,7 +5,8 @@ Vault is a low-level folder locking app for Mac OS X
 
 Step One 
 ========
-Create folder in your Desktop just giving a a space as name then change its icon to invisible !
+Create folder in your Desktop(for default) or to a specific file path. create a folder in that Volume you want 
+just giving a space as name then change its icon to invisible !
 for that do following steps
 download invisible.icns to your mac then right click invisible folder which named " " and select Get info. then drag 
 dowloaded invisible.icns to folder icon of " " folder
@@ -17,10 +18,31 @@ Step Two
 ========
 then open main.scpt with  AppleScript Editor.app  from your (launcher or application/Utilities folder)
 then edit password "yourpass" to "yournewpassword"
+
+
+Step Three
+==========
+(This feature enable users to add specific file path to vault to enable stealth mode <(O_O)> :D )
+if you want a specific file path then replace this line from default script ! ( open folder " " ) to 
+(    open folder ("/Volumes/Machintosh HD/ " as POSIX file)     )
+
+
+*NOTE
+=====
+here " Machintosh HD "may vary depend on your hdd name 
+
+
+Step Four
+=========
+
 then save it 
 then select file > Export > change fileformat to Application
 done
 now you have created Vault.app !
+
+
+Step Five 
+=========
 
 copy it to your Application folder , add it to your dock :)
 
