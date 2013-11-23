@@ -1,7 +1,7 @@
 Vault
 =====
 
-Vault is a low-level folder locking app for Mac OS X
+Vault is a free folder locking app for Mac OS X
 
 Step One 
 ========
